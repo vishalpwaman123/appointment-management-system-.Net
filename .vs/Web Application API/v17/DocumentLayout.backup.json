@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|c:\\users\\vishal waman\\source\\repos\\p\\web application api\\application.repository\\infrastructure\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\infrastructure\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|c:\\users\\vishal waman\\source\\repos\\p\\web application api\\web application api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|c:\\users\\vishal waman\\source\\repos\\p\\web application api\\application.domain\\getappointmentlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|solutionrelative:application.domain\\getappointmentlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|c:\\users\\vishal waman\\source\\repos\\p\\web application api\\application.domain\\appointmentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|solutionrelative:application.domain\\appointmentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|c:\\users\\vishal waman\\source\\repos\\p\\web application api\\web application api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|c:\\users\\vishal waman\\source\\repos\\p\\web application api\\application.repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|c:\\users\\vishal waman\\source\\repos\\p\\web application api\\web application api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "RelativeToolTip": "Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:39:50.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAppointmentListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Domain\\GetAppointmentListResponse.cs",
+              "RelativeDocumentMoniker": "Application.Domain\\GetAppointmentListResponse.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Domain\\GetAppointmentListResponse.cs",
+              "RelativeToolTip": "Application.Domain\\GetAppointmentListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:39:09.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Domain\\AppointmentDetail.cs",
+              "RelativeDocumentMoniker": "Application.Domain\\AppointmentDetail.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Domain\\AppointmentDetail.cs",
+              "RelativeToolTip": "Application.Domain\\AppointmentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:38:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Web Application API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Web Application API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Web Application API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Web Application API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:32:59.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Web Application API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web Application API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Web Application API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web Application API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:32:47.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Application.Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Application.Repository\\AuthRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wEkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:31:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Web Application API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web Application API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Web Application API\\Web Application API\\appsettings.json",
+              "RelativeToolTip": "Web Application API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T07:16:17.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

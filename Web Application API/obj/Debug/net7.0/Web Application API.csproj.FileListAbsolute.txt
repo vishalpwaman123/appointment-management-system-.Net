@@ -1,0 +1,169 @@
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\appsettings.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.exe
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.deps.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Application.Domain.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Application.Repository.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Application.Service.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Application.Domain.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Application.Repository.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\bin\Debug\net7.0\Application.Service.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.Web Application API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web Application API.props
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web Application API.props
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web Application API.props
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\scopedcss\bundle\Web Application API.styles.css
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\refint\Web Application API.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Web Application API\obj\Debug\net7.0\ref\Web Application API.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\appsettings.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.staticwebassets.endpoints.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.exe
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.deps.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.runtimeconfig.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Web Application API.pdb
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Application.Domain.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Application.Repository.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Application.Service.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Application.Domain.pdb
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Application.Repository.pdb
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\bin\Debug\net7.0\Application.Service.pdb
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.csproj.AssemblyReference.cache
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.AssemblyInfoInputs.cache
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.AssemblyInfo.cs
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\scopedcss\bundle\Web Application API.styles.css
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.Web Application API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.Web Application API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web Application API.props
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web Application API.props
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web Application API.props
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Appl.EE422C55.Up2Date
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\refint\Web Application API.dll
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.pdb
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\Web Application API.genruntimeconfig.cache
+C:\Users\Vishal Waman\source\repos\P\Web Application API\Web Application API\obj\Debug\net7.0\ref\Web Application API.dll

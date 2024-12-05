@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Web_Application_API.Controllers.AuthController",
+    "Method": "SignIn",
+    "RelativePath": "api/Auth/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Domain.SignInRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Application_API.Controllers.CustomerController",
+    "Method": "AddAppointment",
+    "RelativePath": "api/Customer/AddAppointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Domain.AddAppointmentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Application_API.Controllers.CustomerController",
+    "Method": "CancelAppointment",
+    "RelativePath": "api/Customer/CancelAppointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
